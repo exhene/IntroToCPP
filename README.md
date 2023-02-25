@@ -1,2 +1,1 @@
 # 30DaysOfCPP
-not C
